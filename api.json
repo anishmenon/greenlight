@@ -1,5 +1,5 @@
 {
  "mobile_app_endpoint":"https://admin.vipcall.info/api/v1",
- "fs_domain":"voip-plan1.nexhe.com"
+ "fs_domain":"voip-plan1.nexhe.com",
  "fs_port":6060
  }
